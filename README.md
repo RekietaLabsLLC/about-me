@@ -1,6 +1,6 @@
 # Hi 👋, I'm RekietaLabs
 
-### A passionate HTML and Node.js Developer
+### A passionate HTML and Javascript Developer
 
 - 📫 How to reach me **support@rekietalabs.com**
 
